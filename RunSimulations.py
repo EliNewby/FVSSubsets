@@ -5,14 +5,6 @@ Created on Wed Jul  7 11:28:15 2021
 
 @author: elinewby
 """
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 13 19:46:31 2020
-
-@author: elinewby
-"""
 import biolqm
 import numpy as np
 import pandas as pd
