@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="data" attr.type="long" for="edge" id="d2"/>
+<key attr.name="label" attr.type="string" for="node" id="d1"/>
+<key attr.name="source" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="Insulin">
+  <data key="d0">1</data>
+  <data key="d1">Insulin</data>
+</node>
+<node id="GF">
+  <data key="d0">1</data>
+  <data key="d1">GF</data>
+</node>
+<node id="Senescence">
+  <data key="d0">-1</data>
+  <data key="d1">Senescence</data>
+</node>
+<node id="p16">
+  <data key="d0">-1</data>
+  <data key="d1">p16</data>
+</node>
+<node id="p21">
+  <data key="d0">-1</data>
+  <data key="d1">p21</data>
+</node>
+<node id="mTORC1_S6K1">
+  <data key="d0">-1</data>
+  <data key="d1">mTORC1_S6K1</data>
+</node>
+<node id="G1_S">
+  <data key="d0">-1</data>
+  <data key="d1">G1_S</data>
+</node>
+<node id="CDK2">
+  <data key="d0">-1</data>
+  <data key="d1">CDK2</data>
+</node>
+<node id="E2F1">
+  <data key="d0">-1</data>
+  <data key="d1">E2F1</data>
+</node>
+<node id="Metabolism">
+  <data key="d0">-1</data>
+  <data key="d1">Metabolism</data>
+</node>
+<node id="MAPK">
+  <data key="d0">-1</data>
+  <data key="d1">MAPK</data>
+</node>
+<node id="PP2A">
+  <data key="d0">-1</data>
+  <data key="d1">PP2A</data>
+</node>
+<node id="p53">
+  <data key="d0">-1</data>
+  <data key="d1">p53</data>
+</node>
+<node id="PRC">
+  <data key="d0">-1</data>
+  <data key="d1">PRC</data>
+</node>
+<node id="MDM2">
+  <data key="d0">-1</data>
+  <data key="d1">MDM2</data>
+</node>
+<node id="AKT">
+  <data key="d0">-1</data>
+  <data key="d1">AKT</data>
+</node>
+<node id="MYC">
+  <data key="d0">-1</data>
+  <data key="d1">MYC</data>
+</node>
+<node id="FOXO">
+  <data key="d0">-1</data>
+  <data key="d1">FOXO</data>
+</node>
+<node id="IRS_PIK3CA">
+  <data key="d0">-1</data>
+  <data key="d1">IRS_PIK3CA</data>
+</node>
+<node id="PTEN">
+  <data key="d0">-1</data>
+  <data key="d1">PTEN</data>
+</node>
+<node id="AMPK">
+  <data key="d0">-1</data>
+  <data key="d1">AMPK</data>
+</node>
+<node id="TSC">
+  <data key="d0">-1</data>
+  <data key="d1">TSC</data>
+</node>
+<node id="ATP">
+  <data key="d0">-1</data>
+  <data key="d1">ATP</data>
+</node>
+<node id="pRB">
+  <data key="d0">-1</data>
+  <data key="d1">pRB</data>
+</node>
+<node id="PP1C">
+  <data key="d0">-1</data>
+  <data key="d1">PP1C</data>
+</node>
+<node id="Therapy">
+  <data key="d0">0</data>
+  <data key="d1">Therapy</data>
+</node>
+<edge source="Insulin" target="IRS_PIK3CA">
+  <data key="d2">1</data>
+</edge>
+<edge source="GF" target="MAPK">
+  <data key="d2">1</data>
+</edge>
+<edge source="GF" target="E2F1">
+  <data key="d2">1</data>
+</edge>
+<edge source="p16" target="Senescence">
+  <data key="d2">1</data>
+</edge>
+<edge source="p16" target="MDM2">
+  <data key="d2">1</data>
+</edge>
+<edge source="p16" target="FOXO">
+  <data key="d2">1</data>
+</edge>
+<edge source="p21" target="Senescence">
+  <data key="d2">1</data>
+</edge>
+<edge source="p21" target="G1_S">
+  <data key="d2">-1</data>
+</edge>
+<edge source="p21" target="CDK2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="mTORC1_S6K1" target="Senescence">
+  <data key="d2">1</data>
+</edge>
+<edge source="mTORC1_S6K1" target="MDM2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="mTORC1_S6K1" target="IRS_PIK3CA">
+  <data key="d2">-1</data>
+</edge>
+<edge source="mTORC1_S6K1" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="mTORC1_S6K1" target="CDK2">
+  <data key="d2">1</data>
+</edge>
+<edge source="mTORC1_S6K1" target="Metabolism">
+  <data key="d2">1</data>
+</edge>
+<edge source="mTORC1_S6K1" target="PP2A">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CDK2" target="G1_S">
+  <data key="d2">1</data>
+</edge>
+<edge source="CDK2" target="AKT">
+  <data key="d2">1</data>
+</edge>
+<edge source="CDK2" target="pRB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="E2F1" target="G1_S">
+  <data key="d2">1</data>
+</edge>
+<edge source="E2F1" target="p16">
+  <data key="d2">-1</data>
+</edge>
+<edge source="E2F1" target="MDM2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="E2F1" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="E2F1" target="CDK2">
+  <data key="d2">1</data>
+</edge>
+<edge source="E2F1" target="E2F1">
+  <data key="d2">1</data>
+</edge>
+<edge source="Metabolism" target="G1_S">
+  <data key="d2">1</data>
+</edge>
+<edge source="Metabolism" target="ATP">
+  <data key="d2">1</data>
+</edge>
+<edge source="Metabolism" target="FOXO">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAPK" target="p16">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAPK" target="TSC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MAPK" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAPK" target="Metabolism">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAPK" target="FOXO">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MAPK" target="PP1C">
+  <data key="d2">1</data>
+</edge>
+<edge source="PP2A" target="MAPK">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PP2A" target="AKT">
+  <data key="d2">-1</data>
+</edge>
+<edge source="p53" target="p16">
+  <data key="d2">-1</data>
+</edge>
+<edge source="p53" target="MDM2">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="p21">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="AMPK">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="PTEN">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PRC" target="p16">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MDM2" target="p53">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="MDM2">
+  <data key="d2">1</data>
+</edge>
+<edge source="AKT" target="p21">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="PTEN">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="TSC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="PRC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="Metabolism">
+  <data key="d2">1</data>
+</edge>
+<edge source="AKT" target="FOXO">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="PP1C">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="MDM2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="p21">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="CDK2">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="E2F1">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="PRC">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXO" target="p21">
+  <data key="d2">1</data>
+</edge>
+<edge source="IRS_PIK3CA" target="AKT">
+  <data key="d2">1</data>
+</edge>
+<edge source="PTEN" target="AKT">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AMPK" target="mTORC1_S6K1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AMPK" target="TSC">
+  <data key="d2">1</data>
+</edge>
+<edge source="AMPK" target="FOXO">
+  <data key="d2">1</data>
+</edge>
+<edge source="TSC" target="mTORC1_S6K1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ATP" target="AMPK">
+  <data key="d2">-1</data>
+</edge>
+<edge source="pRB" target="E2F1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PP1C" target="Metabolism">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

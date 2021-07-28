@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="data" attr.type="long" for="edge" id="d2"/>
+<key attr.name="label" attr.type="string" for="node" id="d1"/>
+<key attr.name="source" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="EGFR_stimulus">
+  <data key="d0">0</data>
+  <data key="d1">EGFR_stimulus</data>
+</node>
+<node id="FGFR3_stimulus">
+  <data key="d0">0</data>
+  <data key="d1">FGFR3_stimulus</data>
+</node>
+<node id="TGFBR_stimulus">
+  <data key="d0">0</data>
+  <data key="d1">TGFBR_stimulus</data>
+</node>
+<node id="DNA_damage">
+  <data key="d0">0</data>
+  <data key="d1">DNA_damage</data>
+</node>
+<node id="Apoptosis">
+  <data key="d0">-1</data>
+  <data key="d1">Apoptosis</data>
+</node>
+<node id="ERK">
+  <data key="d0">-1</data>
+  <data key="d1">ERK</data>
+</node>
+<node id="p53">
+  <data key="d0">-1</data>
+  <data key="d1">p53</data>
+</node>
+<node id="FOXO3">
+  <data key="d0">-1</data>
+  <data key="d1">FOXO3</data>
+</node>
+<node id="BCL2">
+  <data key="d0">-1</data>
+  <data key="d1">BCL2</data>
+</node>
+<node id="Growth_Arrest">
+  <data key="d0">-1</data>
+  <data key="d1">Growth_Arrest</data>
+</node>
+<node id="p21">
+  <data key="d0">-1</data>
+  <data key="d1">p21</data>
+</node>
+<node id="Proliferation">
+  <data key="d0">-1</data>
+  <data key="d1">Proliferation</data>
+</node>
+<node id="MYC">
+  <data key="d0">-1</data>
+  <data key="d1">MYC</data>
+</node>
+<node id="p70">
+  <data key="d0">-1</data>
+  <data key="d1">p70</data>
+</node>
+<node id="MEK1_2">
+  <data key="d0">-1</data>
+  <data key="d1">MEK1_2</data>
+</node>
+<node id="p38">
+  <data key="d0">-1</data>
+  <data key="d1">p38</data>
+</node>
+<node id="TAOK">
+  <data key="d0">-1</data>
+  <data key="d1">TAOK</data>
+</node>
+<node id="DUSP1">
+  <data key="d0">-1</data>
+  <data key="d1">DUSP1</data>
+</node>
+<node id="MTK1">
+  <data key="d0">-1</data>
+  <data key="d1">MTK1</data>
+</node>
+<node id="TAK1">
+  <data key="d0">-1</data>
+  <data key="d1">TAK1</data>
+</node>
+<node id="MAP3K1_3">
+  <data key="d0">-1</data>
+  <data key="d1">MAP3K1_3</data>
+</node>
+<node id="JNK">
+  <data key="d0">-1</data>
+  <data key="d1">JNK</data>
+</node>
+<node id="ATM">
+  <data key="d0">-1</data>
+  <data key="d1">ATM</data>
+</node>
+<node id="MDM2">
+  <data key="d0">-1</data>
+  <data key="d1">MDM2</data>
+</node>
+<node id="AKT">
+  <data key="d0">-1</data>
+  <data key="d1">AKT</data>
+</node>
+<node id="TGFBR">
+  <data key="d0">-1</data>
+  <data key="d1">TGFBR</data>
+</node>
+<node id="EGFR">
+  <data key="d0">-1</data>
+  <data key="d1">EGFR</data>
+</node>
+<node id="GRB2">
+  <data key="d0">-1</data>
+  <data key="d1">GRB2</data>
+</node>
+<node id="PKC">
+  <data key="d0">-1</data>
+  <data key="d1">PKC</data>
+</node>
+<node id="SPRY">
+  <data key="d0">-1</data>
+  <data key="d1">SPRY</data>
+</node>
+<node id="FGFR3">
+  <data key="d0">1</data>
+  <data key="d1">FGFR3</data>
+</node>
+<node id="MAX">
+  <data key="d0">-1</data>
+  <data key="d1">MAX</data>
+</node>
+<node id="FRS2">
+  <data key="d0">-1</data>
+  <data key="d1">FRS2</data>
+</node>
+<node id="PI3K">
+  <data key="d0">-1</data>
+  <data key="d1">PI3K</data>
+</node>
+<node id="GAB1">
+  <data key="d0">-1</data>
+  <data key="d1">GAB1</data>
+</node>
+<node id="RAS">
+  <data key="d0">-1</data>
+  <data key="d1">RAS</data>
+</node>
+<node id="SOS">
+  <data key="d0">-1</data>
+  <data key="d1">SOS</data>
+</node>
+<node id="AP1">
+  <data key="d0">-1</data>
+  <data key="d1">AP1</data>
+</node>
+<node id="FOS">
+  <data key="d0">-1</data>
+  <data key="d1">FOS</data>
+</node>
+<node id="ATF2">
+  <data key="d0">-1</data>
+  <data key="d1">ATF2</data>
+</node>
+<node id="JUN">
+  <data key="d0">-1</data>
+  <data key="d1">JUN</data>
+</node>
+<node id="PPP2CA">
+  <data key="d0">-1</data>
+  <data key="d1">PPP2CA</data>
+</node>
+<node id="RAF">
+  <data key="d0">-1</data>
+  <data key="d1">RAF</data>
+</node>
+<node id="CREB">
+  <data key="d0">-1</data>
+  <data key="d1">CREB</data>
+</node>
+<node id="MSK">
+  <data key="d0">-1</data>
+  <data key="d1">MSK</data>
+</node>
+<node id="PDK1">
+  <data key="d0">-1</data>
+  <data key="d1">PDK1</data>
+</node>
+<node id="PTEN">
+  <data key="d0">-1</data>
+  <data key="d1">PTEN</data>
+</node>
+<node id="PLCG">
+  <data key="d0">-1</data>
+  <data key="d1">PLCG</data>
+</node>
+<node id="GADD45">
+  <data key="d0">-1</data>
+  <data key="d1">GADD45</data>
+</node>
+<node id="SMAD">
+  <data key="d0">-1</data>
+  <data key="d1">SMAD</data>
+</node>
+<node id="ELK1">
+  <data key="d0">-1</data>
+  <data key="d1">ELK1</data>
+</node>
+<node id="RSK">
+  <data key="d0">-1</data>
+  <data key="d1">RSK</data>
+</node>
+<node id="p14">
+  <data key="d0">-1</data>
+  <data key="d1">p14</data>
+</node>
+<edge source="EGFR_stimulus" target="EGFR">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFBR_stimulus" target="TGFBR">
+  <data key="d2">1</data>
+</edge>
+<edge source="DNA_damage" target="ATM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="Apoptosis">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ERK" target="ELK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="FOS">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="MSK">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="RSK">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="SPRY">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="RAF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ERK" target="p70">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="Apoptosis">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="p21">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="GADD45">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="MDM2">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="PTEN">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXO3" target="Apoptosis">
+  <data key="d2">1</data>
+</edge>
+<edge source="BCL2" target="Apoptosis">
+  <data key="d2">-1</data>
+</edge>
+<edge source="p21" target="Growth_Arrest">
+  <data key="d2">1</data>
+</edge>
+<edge source="p21" target="Proliferation">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="Proliferation">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="p14">
+  <data key="d2">1</data>
+</edge>
+<edge source="p70" target="Proliferation">
+  <data key="d2">1</data>
+</edge>
+<edge source="MEK1_2" target="ERK">
+  <data key="d2">1</data>
+</edge>
+<edge source="p38" target="p53">
+  <data key="d2">1</data>
+</edge>
+<edge source="p38" target="MAX">
+  <data key="d2">1</data>
+</edge>
+<edge source="p38" target="PPP2CA">
+  <data key="d2">1</data>
+</edge>
+<edge source="p38" target="ELK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="p38" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="p38" target="MSK">
+  <data key="d2">1</data>
+</edge>
+<edge source="TAOK" target="p38">
+  <data key="d2">1</data>
+</edge>
+<edge source="TAOK" target="JNK">
+  <data key="d2">1</data>
+</edge>
+<edge source="DUSP1" target="p38">
+  <data key="d2">1</data>
+</edge>
+<edge source="DUSP1" target="JNK">
+  <data key="d2">1</data>
+</edge>
+<edge source="MTK1" target="p38">
+  <data key="d2">1</data>
+</edge>
+<edge source="MTK1" target="JNK">
+  <data key="d2">1</data>
+</edge>
+<edge source="TAK1" target="p38">
+  <data key="d2">1</data>
+</edge>
+<edge source="TAK1" target="JNK">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAP3K1_3" target="p38">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAP3K1_3" target="JNK">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAP3K1_3" target="MEK1_2">
+  <data key="d2">1</data>
+</edge>
+<edge source="JNK" target="ELK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="JNK" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="JNK" target="JUN">
+  <data key="d2">1</data>
+</edge>
+<edge source="JNK" target="FOXO3">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="p53">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="TAOK">
+  <data key="d2">1</data>
+</edge>
+<edge source="MDM2" target="p53">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="p21">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="AKT" target="RAF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="FOXO3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="AKT" target="MDM2">
+  <data key="d2">1</data>
+</edge>
+<edge source="AKT" target="BCL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFBR" target="GRB2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFBR" target="SMAD">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFBR" target="TAK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="EGFR" target="GRB2">
+  <data key="d2">1</data>
+</edge>
+<edge source="EGFR" target="PLCG">
+  <data key="d2">1</data>
+</edge>
+<edge source="GRB2" target="EGFR">
+  <data key="d2">-1</data>
+</edge>
+<edge source="GRB2" target="FRS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="GRB2" target="GAB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="GRB2" target="SOS">
+  <data key="d2">1</data>
+</edge>
+<edge source="PKC" target="EGFR">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PKC" target="RAF">
+  <data key="d2">1</data>
+</edge>
+<edge source="SPRY" target="EGFR">
+  <data key="d2">1</data>
+</edge>
+<edge source="SPRY" target="FRS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FGFR3" target="FRS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FGFR3" target="PLCG">
+  <data key="d2">1</data>
+</edge>
+<edge source="MAX" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="FRS2" target="GRB2">
+  <data key="d2">1</data>
+</edge>
+<edge source="PI3K" target="GAB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PI3K" target="PDK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="GAB1" target="PI3K">
+  <data key="d2">1</data>
+</edge>
+<edge source="RAS" target="PI3K">
+  <data key="d2">1</data>
+</edge>
+<edge source="RAS" target="RAF">
+  <data key="d2">1</data>
+</edge>
+<edge source="RAS" target="MAP3K1_3">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOS" target="PI3K">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOS" target="RAS">
+  <data key="d2">1</data>
+</edge>
+<edge source="AP1" target="MEK1_2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOS" target="AP1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATF2" target="AP1">
+  <data key="d2">1</data>
+</edge>
+<edge source="JUN" target="AP1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PPP2CA" target="MEK1_2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="RAF" target="MEK1_2">
+  <data key="d2">1</data>
+</edge>
+<edge source="CREB" target="DUSP1">
+  <data key="d2">1</data>
+</edge>
+<edge source="CREB" target="FOS">
+  <data key="d2">1</data>
+</edge>
+<edge source="CREB" target="BCL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="MSK" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="MSK" target="CREB">
+  <data key="d2">1</data>
+</edge>
+<edge source="PDK1" target="AKT">
+  <data key="d2">1</data>
+</edge>
+<edge source="PDK1" target="p70">
+  <data key="d2">1</data>
+</edge>
+<edge source="PTEN" target="AKT">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PLCG" target="PKC">
+  <data key="d2">1</data>
+</edge>
+<edge source="PLCG" target="RAS">
+  <data key="d2">1</data>
+</edge>
+<edge source="GADD45" target="MTK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD" target="GADD45">
+  <data key="d2">1</data>
+</edge>
+<edge source="ELK1" target="FOS">
+  <data key="d2">1</data>
+</edge>
+<edge source="RSK" target="FOS">
+  <data key="d2">1</data>
+</edge>
+<edge source="RSK" target="SOS">
+  <data key="d2">-1</data>
+</edge>
+<edge source="p14" target="MDM2">
+  <data key="d2">-1</data>
+</edge>
+</graph></graphml>

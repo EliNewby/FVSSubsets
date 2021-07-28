@@ -1,0 +1,468 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="data" attr.type="long" for="edge" id="d2"/>
+<key attr.name="label" attr.type="string" for="node" id="d1"/>
+<key attr.name="source" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="ICL">
+  <data key="d0">-1</data>
+  <data key="d1">ICL</data>
+</node>
+<node id="DSB">
+  <data key="d0">-1</data>
+  <data key="d1">DSB</data>
+</node>
+<node id="FANCM">
+  <data key="d0">-1</data>
+  <data key="d1">FANCM</data>
+</node>
+<node id="CHKREC">
+  <data key="d0">-1</data>
+  <data key="d1">CHKREC</data>
+</node>
+<node id="FAcore">
+  <data key="d0">-1</data>
+  <data key="d1">FAcore</data>
+</node>
+<node id="ATR">
+  <data key="d0">-1</data>
+  <data key="d1">ATR</data>
+</node>
+<node id="ATM">
+  <data key="d0">-1</data>
+  <data key="d1">ATM</data>
+</node>
+<node id="FANCD2I">
+  <data key="d0">-1</data>
+  <data key="d1">FANCD2I</data>
+</node>
+<node id="USP1">
+  <data key="d0">-1</data>
+  <data key="d1">USP1</data>
+</node>
+<node id="H2AX">
+  <data key="d0">-1</data>
+  <data key="d1">H2AX</data>
+</node>
+<node id="MUS81">
+  <data key="d0">-1</data>
+  <data key="d1">MUS81</data>
+</node>
+<node id="FANCJBRCA1">
+  <data key="d0">-1</data>
+  <data key="d1">FANCJBRCA1</data>
+</node>
+<node id="ssDNARPA">
+  <data key="d0">-1</data>
+  <data key="d1">ssDNARPA</data>
+</node>
+<node id="XPF">
+  <data key="d0">-1</data>
+  <data key="d1">XPF</data>
+</node>
+<node id="p53">
+  <data key="d0">-1</data>
+  <data key="d1">p53</data>
+</node>
+<node id="FAN1">
+  <data key="d0">-1</data>
+  <data key="d1">FAN1</data>
+</node>
+<node id="ADD">
+  <data key="d0">-1</data>
+  <data key="d1">ADD</data>
+</node>
+<node id="PCNATLS">
+  <data key="d0">-1</data>
+  <data key="d1">PCNATLS</data>
+</node>
+<node id="HRR">
+  <data key="d0">-1</data>
+  <data key="d1">HRR</data>
+</node>
+<node id="NHEJ">
+  <data key="d0">-1</data>
+  <data key="d1">NHEJ</data>
+</node>
+<node id="MRN">
+  <data key="d0">-1</data>
+  <data key="d1">MRN</data>
+</node>
+<node id="RAD51">
+  <data key="d0">-1</data>
+  <data key="d1">RAD51</data>
+</node>
+<node id="KU">
+  <data key="d0">-1</data>
+  <data key="d1">KU</data>
+</node>
+<node id="BRCA1">
+  <data key="d0">0</data>
+  <data key="d1">BRCA1</data>
+</node>
+<node id="FANCD1N">
+  <data key="d0">-1</data>
+  <data key="d1">FANCD1N</data>
+</node>
+<node id="DNAPK">
+  <data key="d0">-1</data>
+  <data key="d1">DNAPK</data>
+</node>
+<node id="CHK2">
+  <data key="d0">-1</data>
+  <data key="d1">CHK2</data>
+</node>
+<node id="CHK1">
+  <data key="d0">-1</data>
+  <data key="d1">CHK1</data>
+</node>
+<edge source="ICL" target="ICL">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICL" target="FANCM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICL" target="MUS81">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICL" target="FANCJBRCA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ICL" target="CHKREC">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="ICL">
+  <data key="d2">-1</data>
+</edge>
+<edge source="DSB" target="FANCD2I">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="DSB">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="MRN">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="ssDNARPA">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="HRR">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="KU">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="DNAPK">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="NHEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="ATM">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="H2AX">
+  <data key="d2">1</data>
+</edge>
+<edge source="DSB" target="CHKREC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FANCM" target="FAcore">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCM" target="XPF">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCM" target="USP1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FANCM" target="ATR">
+  <data key="d2">1</data>
+</edge>
+<edge source="CHKREC" target="FANCM">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="FAcore">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="MRN">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="FANCD1N">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="RAD51">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="HRR">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="KU">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="DNAPK">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="NHEJ">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="ATR">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="ATM">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="p53">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="CHK1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="CHK2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="H2AX">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CHKREC" target="CHKREC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FAcore" target="FANCD2I">
+  <data key="d2">1</data>
+</edge>
+<edge source="FAcore" target="XPF">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="FAcore">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="FANCD2I">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="FANCJBRCA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="NHEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="ATM">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="p53">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="CHK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="CHK2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATR" target="H2AX">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="FAcore">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="FANCD2I">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="FANCJBRCA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="MRN">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="NHEJ">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ATM" target="ATR">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="p53">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="CHK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="CHK2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATM" target="H2AX">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD2I" target="XPF">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD2I" target="FAN1">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD2I" target="MRN">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD2I" target="ssDNARPA">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD2I" target="FANCD1N">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD2I" target="USP1">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD2I" target="KU">
+  <data key="d2">-1</data>
+</edge>
+<edge source="USP1" target="FANCD2I">
+  <data key="d2">-1</data>
+</edge>
+<edge source="USP1" target="PCNATLS">
+  <data key="d2">-1</data>
+</edge>
+<edge source="H2AX" target="FANCD2I">
+  <data key="d2">1</data>
+</edge>
+<edge source="MUS81" target="XPF">
+  <data key="d2">1</data>
+</edge>
+<edge source="MUS81" target="FAN1">
+  <data key="d2">1</data>
+</edge>
+<edge source="MUS81" target="ADD">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCJBRCA1" target="ssDNARPA">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCJBRCA1" target="NHEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="ssDNARPA" target="FANCJBRCA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ssDNARPA" target="FANCD1N">
+  <data key="d2">1</data>
+</edge>
+<edge source="ssDNARPA" target="RAD51">
+  <data key="d2">1</data>
+</edge>
+<edge source="ssDNARPA" target="NHEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="ssDNARPA" target="ATR">
+  <data key="d2">1</data>
+</edge>
+<edge source="XPF" target="ADD">
+  <data key="d2">1</data>
+</edge>
+<edge source="XPF" target="DSB">
+  <data key="d2">1</data>
+</edge>
+<edge source="XPF" target="NHEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="p53" target="XPF">
+  <data key="d2">1</data>
+</edge>
+<edge source="FAN1" target="XPF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FAN1" target="ADD">
+  <data key="d2">1</data>
+</edge>
+<edge source="FAN1" target="DSB">
+  <data key="d2">1</data>
+</edge>
+<edge source="FAN1" target="PCNATLS">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ADD" target="ADD">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADD" target="PCNATLS">
+  <data key="d2">1</data>
+</edge>
+<edge source="ADD" target="CHKREC">
+  <data key="d2">1</data>
+</edge>
+<edge source="PCNATLS" target="ADD">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PCNATLS" target="USP1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PCNATLS" target="CHKREC">
+  <data key="d2">1</data>
+</edge>
+<edge source="HRR" target="DSB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="HRR" target="CHKREC">
+  <data key="d2">1</data>
+</edge>
+<edge source="NHEJ" target="DSB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NHEJ" target="CHKREC">
+  <data key="d2">1</data>
+</edge>
+<edge source="MRN" target="ssDNARPA">
+  <data key="d2">1</data>
+</edge>
+<edge source="MRN" target="KU">
+  <data key="d2">-1</data>
+</edge>
+<edge source="RAD51" target="MRN">
+  <data key="d2">-1</data>
+</edge>
+<edge source="RAD51" target="ssDNARPA">
+  <data key="d2">-1</data>
+</edge>
+<edge source="RAD51" target="HRR">
+  <data key="d2">1</data>
+</edge>
+<edge source="KU" target="MRN">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KU" target="ssDNARPA">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KU" target="DNAPK">
+  <data key="d2">1</data>
+</edge>
+<edge source="KU" target="NHEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="BRCA1" target="FANCD1N">
+  <data key="d2">1</data>
+</edge>
+<edge source="BRCA1" target="HRR">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD1N" target="RAD51">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD1N" target="HRR">
+  <data key="d2">1</data>
+</edge>
+<edge source="FANCD1N" target="USP1">
+  <data key="d2">1</data>
+</edge>
+<edge source="DNAPK" target="NHEJ">
+  <data key="d2">1</data>
+</edge>
+<edge source="DNAPK" target="p53">
+  <data key="d2">1</data>
+</edge>
+<edge source="DNAPK" target="CHK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="DNAPK" target="CHK2">
+  <data key="d2">1</data>
+</edge>
+<edge source="DNAPK" target="H2AX">
+  <data key="d2">1</data>
+</edge>
+<edge source="CHK2" target="p53">
+  <data key="d2">1</data>
+</edge>
+<edge source="CHK1" target="p53">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

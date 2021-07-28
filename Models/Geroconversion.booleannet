@@ -1,0 +1,27 @@
+#BOOLEAN RULES
+Insulin *= 1
+GF *= 1
+Senescence *= (not p16 and p21 and mTORC1_S6K1) or (p16)
+G1_S *= not p21 and CDK2 and E2F1 and Metabolism
+MAPK *= GF and not PP2A
+p16 *= MAPK and not p53 and not E2F1 and not PRC
+MDM2 *= (not p16 and not p53 and AKT and not mTORC1_S6K1 and not MYC and not E2F1) or (not p16 and p53 and not mTORC1_S6K1 and not MYC and not E2F1) or (p16 and not mTORC1_S6K1 and not MYC and not E2F1)
+p53 *= not MDM2
+p21 *= (not p53 and not AKT and not MYC and FOXO) or (p53 and not AKT and not MYC)
+AKT *= (not IRS_PIK3CA and not PTEN and CDK2 and not PP2A) or (IRS_PIK3CA and not PTEN and not PP2A)
+mTORC1_S6K1 *= not AMPK and not TSC
+ATP *= Metabolism
+IRS_PIK3CA *= Insulin and not mTORC1_S6K1
+AMPK *= p53 and not ATP
+PTEN *= p53 and not AKT
+TSC *= not MAPK and not AKT and AMPK
+MYC *= MAPK and not p53 and mTORC1_S6K1 and E2F1
+CDK2 *= (not p21 and mTORC1_S6K1 and not MYC and E2F1) or (not p21 and mTORC1_S6K1 and MYC)
+pRB *= not CDK2
+E2F1 *= (not GF and MYC and not pRB and E2F1) or (GF and not pRB and E2F1)
+PRC *= not AKT and MYC
+Metabolism *= (not MAPK and not AKT and mTORC1_S6K1 and PP1C) or (not MAPK and AKT and mTORC1_S6K1) or (MAPK and not AKT and PP1C) or (MAPK and AKT)
+PP2A *= not mTORC1_S6K1
+FOXO *= (not MAPK and not p16 and not AKT and not AMPK and Metabolism) or (not MAPK and not p16 and not AKT and AMPK) or (not MAPK and p16 and not AKT)
+PP1C *= (not MAPK and AKT) or (MAPK)
+Therapy *= 0

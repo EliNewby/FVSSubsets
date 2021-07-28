@@ -1,0 +1,473 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="data" attr.type="long" for="edge" id="d2"/>
+<key attr.name="label" attr.type="string" for="node" id="d1"/>
+<key attr.name="source" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="APC">
+  <data key="d0">1</data>
+  <data key="d1">APC</data>
+</node>
+<node id="FOXP3">
+  <data key="d0">-1</data>
+  <data key="d1">FOXP3</data>
+</node>
+<node id="NFAT">
+  <data key="d0">-1</data>
+  <data key="d1">NFAT</data>
+</node>
+<node id="RORGT">
+  <data key="d0">-1</data>
+  <data key="d1">RORGT</data>
+</node>
+<node id="STAT1">
+  <data key="d0">-1</data>
+  <data key="d1">STAT1</data>
+</node>
+<node id="STAT5_b1">
+  <data key="d0">-1</data>
+  <data key="d1">STAT5_b1</data>
+</node>
+<node id="TGFB">
+  <data key="d0">-1</data>
+  <data key="d1">TGFB</data>
+</node>
+<node id="TGFB_e">
+  <data key="d0">1</data>
+  <data key="d1">TGFB_e</data>
+</node>
+<node id="STAT3">
+  <data key="d0">-1</data>
+  <data key="d1">STAT3</data>
+</node>
+<node id="GATA3">
+  <data key="d0">-1</data>
+  <data key="d1">GATA3</data>
+</node>
+<node id="STAT6">
+  <data key="d0">-1</data>
+  <data key="d1">STAT6</data>
+</node>
+<node id="TBET">
+  <data key="d0">-1</data>
+  <data key="d1">TBET</data>
+</node>
+<node id="IFNB_e">
+  <data key="d0">0</data>
+  <data key="d1">IFNB_e</data>
+</node>
+<node id="IFNG">
+  <data key="d0">-1</data>
+  <data key="d1">IFNG</data>
+</node>
+<node id="STAT4">
+  <data key="d0">-1</data>
+  <data key="d1">STAT4</data>
+</node>
+<node id="proliferation">
+  <data key="d0">-1</data>
+  <data key="d1">proliferation</data>
+</node>
+<node id="IFNG_e">
+  <data key="d0">0</data>
+  <data key="d1">IFNG_e</data>
+</node>
+<node id="IL10">
+  <data key="d0">-1</data>
+  <data key="d1">IL10</data>
+</node>
+<node id="IL10_e">
+  <data key="d0">0</data>
+  <data key="d1">IL10_e</data>
+</node>
+<node id="IL12_e">
+  <data key="d0">0</data>
+  <data key="d1">IL12_e</data>
+</node>
+<node id="IL15_e">
+  <data key="d0">0</data>
+  <data key="d1">IL15_e</data>
+</node>
+<node id="IL17">
+  <data key="d0">-1</data>
+  <data key="d1">IL17</data>
+</node>
+<node id="IL2">
+  <data key="d0">-1</data>
+  <data key="d1">IL2</data>
+</node>
+<node id="IL21">
+  <data key="d0">-1</data>
+  <data key="d1">IL21</data>
+</node>
+<node id="IL21_e">
+  <data key="d0">0</data>
+  <data key="d1">IL21_e</data>
+</node>
+<node id="IL23">
+  <data key="d0">-1</data>
+  <data key="d1">IL23</data>
+</node>
+<node id="IL23_e">
+  <data key="d0">0</data>
+  <data key="d1">IL23_e</data>
+</node>
+<node id="IL27_e">
+  <data key="d0">0</data>
+  <data key="d1">IL27_e</data>
+</node>
+<node id="IL2RA">
+  <data key="d0">-1</data>
+  <data key="d1">IL2RA</data>
+</node>
+<node id="IL2R_b1">
+  <data key="d0">-1</data>
+  <data key="d1">IL2R_b1</data>
+</node>
+<node id="IL2_e">
+  <data key="d0">1</data>
+  <data key="d1">IL2_e</data>
+</node>
+<node id="IL2R_b2">
+  <data key="d0">-1</data>
+  <data key="d1">IL2R_b2</data>
+</node>
+<node id="IL4">
+  <data key="d0">-1</data>
+  <data key="d1">IL4</data>
+</node>
+<node id="IL4_e">
+  <data key="d0">0</data>
+  <data key="d1">IL4_e</data>
+</node>
+<node id="IL6_e">
+  <data key="d0">0</data>
+  <data key="d1">IL6_e</data>
+</node>
+<node id="STAT5_b2">
+  <data key="d0">-1</data>
+  <data key="d1">STAT5_b2</data>
+</node>
+<edge source="APC" target="IL17">
+  <data key="d2">1</data>
+</edge>
+<edge source="APC" target="IL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="APC" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="APC" target="NFAT">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXP3" target="FOXP3">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXP3" target="IFNG">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXP3" target="IL17">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXP3" target="IL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXP3" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXP3" target="IL4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXP3" target="TGFB">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="FOXP3">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL10">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL17">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL21">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL23">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL4">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="TGFB">
+  <data key="d2">1</data>
+</edge>
+<edge source="RORGT" target="FOXP3">
+  <data key="d2">1</data>
+</edge>
+<edge source="RORGT" target="IL17">
+  <data key="d2">1</data>
+</edge>
+<edge source="RORGT" target="RORGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="RORGT" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT1" target="FOXP3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT1" target="IL17">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT1" target="IL4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT1" target="STAT4">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT1" target="TBET">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b1" target="FOXP3">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b1" target="IL17">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT5_b1" target="IL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b1" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b1" target="STAT5_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b1" target="STAT5_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b1" target="proliferation">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFB" target="FOXP3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFB" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFB" target="RORGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFB_e" target="FOXP3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFB_e" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="TGFB_e" target="RORGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="FOXP3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT3" target="IFNG">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT3" target="IL10">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="IL17">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="IL21">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="IL23">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="RORGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="GATA3" target="GATA3">
+  <data key="d2">1</data>
+</edge>
+<edge source="GATA3" target="IL10">
+  <data key="d2">1</data>
+</edge>
+<edge source="GATA3" target="IL4">
+  <data key="d2">1</data>
+</edge>
+<edge source="GATA3" target="STAT4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="GATA3" target="TBET">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT6" target="GATA3">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT6" target="IL17">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT6" target="IL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT6" target="STAT4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TBET" target="GATA3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TBET" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="TBET" target="IL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TBET" target="IL4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TBET" target="TBET">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNB_e" target="STAT1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNG" target="STAT1">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT4" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="IL10">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="IL17">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="IL21">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="IL23">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="IL4">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="TGFB">
+  <data key="d2">1</data>
+</edge>
+<edge source="proliferation" target="proliferation">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNG_e" target="STAT1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL10" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL10_e" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL12_e" target="STAT4">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL15_e" target="STAT5_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="IL2R_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="IL2R_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL21" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL21_e" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL23" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL23_e" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL27_e" target="STAT1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL27_e" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RA" target="IL2R_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2R_b1" target="IL2R_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2R_b1" target="IL2R_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2R_b1" target="STAT5_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2R_b1" target="STAT5_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2_e" target="IL2R_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2_e" target="IL2R_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2R_b2" target="IL2R_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2R_b2" target="STAT5_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL4" target="STAT5_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL4" target="STAT5_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL4" target="STAT6">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL4_e" target="STAT5_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL4_e" target="STAT5_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL4_e" target="STAT6">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL6_e" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b2" target="STAT5_b1">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b2" target="STAT5_b2">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT5_b2" target="proliferation">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>

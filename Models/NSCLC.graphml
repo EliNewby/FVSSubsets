@@ -1,0 +1,1220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="data" attr.type="long" for="edge" id="d2"/>
+<key attr.name="label" attr.type="string" for="node" id="d1"/>
+<key attr.name="source" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="KLF4">
+  <data key="d0">-1</data>
+  <data key="d1">KLF4</data>
+</node>
+<node id="SMAD3">
+  <data key="d0">-1</data>
+  <data key="d1">SMAD3</data>
+</node>
+<node id="CEBPD">
+  <data key="d0">-1</data>
+  <data key="d1">CEBPD</data>
+</node>
+<node id="MITF">
+  <data key="d0">-1</data>
+  <data key="d1">MITF</data>
+</node>
+<node id="LEF1">
+  <data key="d0">-1</data>
+  <data key="d1">LEF1</data>
+</node>
+<node id="NFKB1">
+  <data key="d0">-1</data>
+  <data key="d1">NFKB1</data>
+</node>
+<node id="TCF7L2">
+  <data key="d0">-1</data>
+  <data key="d1">TCF7L2</data>
+</node>
+<node id="BHLHE40">
+  <data key="d0">-1</data>
+  <data key="d1">BHLHE40</data>
+</node>
+<node id="SOX2">
+  <data key="d0">-1</data>
+  <data key="d1">SOX2</data>
+</node>
+<node id="MYC">
+  <data key="d0">-1</data>
+  <data key="d1">MYC</data>
+</node>
+<node id="SOX11">
+  <data key="d0">-1</data>
+  <data key="d1">SOX11</data>
+</node>
+<node id="TEAD4">
+  <data key="d0">-1</data>
+  <data key="d1">TEAD4</data>
+</node>
+<node id="KDM5B">
+  <data key="d0">-1</data>
+  <data key="d1">KDM5B</data>
+</node>
+<node id="INSM1">
+  <data key="d0">-1</data>
+  <data key="d1">INSM1</data>
+</node>
+<node id="TCF3">
+  <data key="d0">-1</data>
+  <data key="d1">TCF3</data>
+</node>
+<node id="PAX5">
+  <data key="d0">-1</data>
+  <data key="d1">PAX5</data>
+</node>
+<node id="NEUROD1">
+  <data key="d0">-1</data>
+  <data key="d1">NEUROD1</data>
+</node>
+<node id="REST">
+  <data key="d0">-1</data>
+  <data key="d1">REST</data>
+</node>
+<node id="POU3F2">
+  <data key="d0">-1</data>
+  <data key="d1">POU3F2</data>
+</node>
+<node id="TCF4">
+  <data key="d0">-1</data>
+  <data key="d1">TCF4</data>
+</node>
+<node id="ETS2">
+  <data key="d0">-1</data>
+  <data key="d1">ETS2</data>
+</node>
+<node id="FOXA1">
+  <data key="d0">-1</data>
+  <data key="d1">FOXA1</data>
+</node>
+<node id="FOXA2">
+  <data key="d0">-1</data>
+  <data key="d1">FOXA2</data>
+</node>
+<node id="PBX1">
+  <data key="d0">-1</data>
+  <data key="d1">PBX1</data>
+</node>
+<node id="ATF2">
+  <data key="d0">-1</data>
+  <data key="d1">ATF2</data>
+</node>
+<node id="TCF12">
+  <data key="d0">-1</data>
+  <data key="d1">TCF12</data>
+</node>
+<node id="FLI1">
+  <data key="d0">-1</data>
+  <data key="d1">FLI1</data>
+</node>
+<node id="ASCL1">
+  <data key="d0">-1</data>
+  <data key="d1">ASCL1</data>
+</node>
+<node id="CBFA2T2">
+  <data key="d0">-1</data>
+  <data key="d1">CBFA2T2</data>
+</node>
+<node id="MYB">
+  <data key="d0">-1</data>
+  <data key="d1">MYB</data>
+</node>
+<node id="OVOL2">
+  <data key="d0">-1</data>
+  <data key="d1">OVOL2</data>
+</node>
+<node id="ZEB1">
+  <data key="d0">-1</data>
+  <data key="d1">ZEB1</data>
+</node>
+<node id="ELF3">
+  <data key="d0">-1</data>
+  <data key="d1">ELF3</data>
+</node>
+<edge source="KLF4" target="INSM1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="SOX2">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="LEF1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="NEUROD1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KLF4" target="POU3F2">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="MYB">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KLF4" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KLF4" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="ASCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KLF4" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="ELF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="KLF4" target="ATF2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KLF4" target="PBX1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD3" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD3" target="FOXA1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SMAD3" target="ETS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SMAD3" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD3" target="FOXA2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SMAD3" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD3" target="SOX11">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SMAD3" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SMAD3" target="OVOL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SMAD3" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD3" target="MITF">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD3" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CEBPD" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="ELF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="CBFA2T2">
+  <data key="d2">1</data>
+</edge>
+<edge source="CEBPD" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="LEF1">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="ASCL1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MITF" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MITF" target="OVOL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MITF" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MITF" target="TEAD4">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="MITF" target="CBFA2T2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MITF" target="ATF2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MITF" target="KDM5B">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LEF1" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="INSM1">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="SOX2">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="NEUROD1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LEF1" target="POU3F2">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="MYB">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="TCF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="FLI1">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="SMAD3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LEF1" target="ASCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="LEF1" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LEF1" target="BHLHE40">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LEF1" target="TEAD4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LEF1" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LEF1" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="MYB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFKB1" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFKB1" target="FLI1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFKB1" target="FOXA2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFKB1" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="CEBPD">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="OVOL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFKB1" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFKB1" target="TEAD4">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB1" target="PAX5">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF7L2" target="INSM1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="FOXA1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="LEF1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="ETS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="POU3F2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="MYB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF7L2" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF7L2" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF7L2" target="SOX11">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF7L2" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF7L2" target="TCF12">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF7L2" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF7L2" target="PBX1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="BHLHE40" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="BHLHE40" target="LEF1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="BHLHE40" target="ETS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="BHLHE40" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="BHLHE40" target="FLI1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="BHLHE40" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="BHLHE40" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="BHLHE40" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="BHLHE40" target="TCF12">
+  <data key="d2">-1</data>
+</edge>
+<edge source="BHLHE40" target="KDM5B">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="KLF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="INSM1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="LEF1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="NEUROD1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="POU3F2">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="MYB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="FLI1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="FOXA2">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="SMAD3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="TCF7L2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="ASCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="SOX11">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="TCF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="CEBPD">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="OVOL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="ELF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="TEAD4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX2" target="PAX5">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX2" target="PBX1">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="KLF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="INSM1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="SOX2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="FOXA1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="LEF1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="ETS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="POU3F2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="MYB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="FLI1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="SMAD3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="SOX11">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="CEBPD">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="OVOL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="TEAD4">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="PAX5">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="MITF">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYC" target="TCF12">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="CBFA2T2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="ATF2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYC" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX11" target="KLF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="SOX11" target="NEUROD1">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX11" target="POU3F2">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOX11" target="PAX5">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEAD4" target="KLF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="INSM1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="SOX2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="ETS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="NEUROD1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEAD4" target="MYB">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEAD4" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEAD4" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEAD4" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEAD4" target="SOX11">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="OVOL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="TEAD4" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="TCF12">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="CBFA2T2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="ATF2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TEAD4" target="PBX1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KDM5B" target="KLF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KDM5B" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="LEF1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="ETS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KDM5B" target="POU3F2">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="FOXA2">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="REST">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="ASCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KDM5B" target="PAX5">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="KDM5B" target="TCF12">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="CBFA2T2">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="PBX1">
+  <data key="d2">1</data>
+</edge>
+<edge source="KDM5B" target="ZEB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="INSM1" target="NEUROD1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="INSM1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="SOX2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="LEF1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="NEUROD1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="POU3F2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="FLI1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="FOXA2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="REST">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="TCF7L2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="SOX11">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="TCF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF3" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="TEAD4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF3" target="ZEB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PAX5" target="INSM1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PAX5" target="TCF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="PAX5" target="BHLHE40">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PAX5" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PAX5" target="TCF12">
+  <data key="d2">1</data>
+</edge>
+<edge source="NEUROD1" target="INSM1">
+  <data key="d2">1</data>
+</edge>
+<edge source="REST" target="INSM1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="SOX2">
+  <data key="d2">1</data>
+</edge>
+<edge source="REST" target="LEF1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="ETS2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="NEUROD1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="POU3F2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="MYC">
+  <data key="d2">1</data>
+</edge>
+<edge source="REST" target="TCF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="FOXA2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="REST" target="ASCL1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="BHLHE40">
+  <data key="d2">1</data>
+</edge>
+<edge source="REST" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="PAX5">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="REST" target="TCF12">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="ATF2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="PBX1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="REST" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="REST" target="ZEB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="POU3F2" target="SOX2">
+  <data key="d2">1</data>
+</edge>
+<edge source="POU3F2" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="POU3F2" target="NEUROD1">
+  <data key="d2">1</data>
+</edge>
+<edge source="POU3F2" target="ASCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="POU3F2" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="POU3F2" target="TCF12">
+  <data key="d2">1</data>
+</edge>
+<edge source="POU3F2" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="SOX2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="LEF1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="NEUROD1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="MYB">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF4" target="TCF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="FLI1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="SMAD3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF4" target="REST">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF4" target="TCF7L2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF4" target="SOX11">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="ELF3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF4" target="PAX5">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF4" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF4" target="TCF12">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="CBFA2T2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF4" target="ZEB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETS2" target="SOX2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETS2" target="LEF1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETS2" target="FLI1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ETS2" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ETS2" target="ZEB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA1" target="NEUROD1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA1" target="MYB">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA1" target="TCF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA1" target="FOXA2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA1" target="TCF7L2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA1" target="OVOL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA1" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA1" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA1" target="CBFA2T2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA1" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="MYB">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA2" target="FLI1">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="SMAD3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA2" target="TCF7L2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA2" target="OVOL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="PAX5">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FOXA2" target="TCF12">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="CBFA2T2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FOXA2" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="PBX1" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PBX1" target="TCF7L2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PBX1" target="ASCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PBX1" target="TEAD4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PBX1" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ATF2" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATF2" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ATF2" target="FLI1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATF2" target="TCF7L2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATF2" target="TCF4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ATF2" target="OVOL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATF2" target="PAX5">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATF2" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ATF2" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ATF2" target="TCF12">
+  <data key="d2">1</data>
+</edge>
+<edge source="ATF2" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF12" target="FOXA1">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF12" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF12" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF12" target="OVOL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF12" target="BHLHE40">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF12" target="ELF3">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF12" target="TEAD4">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF12" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCF12" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF12" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCF12" target="ZEB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FLI1" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FLI1" target="MYB">
+  <data key="d2">1</data>
+</edge>
+<edge source="FLI1" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FLI1" target="FOXA2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FLI1" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FLI1" target="CBFA2T2">
+  <data key="d2">1</data>
+</edge>
+<edge source="FLI1" target="PBX1">
+  <data key="d2">1</data>
+</edge>
+<edge source="FLI1" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASCL1" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ASCL1" target="NEUROD1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ASCL1" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CBFA2T2" target="ETS2">
+  <data key="d2">1</data>
+</edge>
+<edge source="CBFA2T2" target="OVOL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYB" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYB" target="SMAD3">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYB" target="TCF7L2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYB" target="TCF4">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYB" target="MITF">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYB" target="NFKB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MYB" target="TCF12">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYB" target="ATF2">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYB" target="PBX1">
+  <data key="d2">1</data>
+</edge>
+<edge source="MYB" target="KDM5B">
+  <data key="d2">1</data>
+</edge>
+<edge source="OVOL2" target="MYC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="OVOL2" target="CBFA2T2">
+  <data key="d2">1</data>
+</edge>
+<edge source="OVOL2" target="ZEB1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="ZEB1" target="SMAD3">
+  <data key="d2">1</data>
+</edge>
+<edge source="ZEB1" target="NFKB1">
+  <data key="d2">1</data>
+</edge>
+<edge source="ELF3" target="OVOL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ELF3" target="TEAD4">
+  <data key="d2">-1</data>
+</edge>
+</graph></graphml>
