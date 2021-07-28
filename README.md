@@ -11,3 +11,13 @@ The FindBestSubsets file contains the code to find the topological metric values
 The RunSimulations file contains the code to simulate the network and calculate the *To Control* and *Away Control* values for a list of subsets. Along with a list of subsets, this code requires a Boolean network in one of the file types bioLQM accepts as input (see here: http://www.colomoto.org/biolqm/doc/formats.html)
 
 For more information and an example, see the jupyter notebook file.
+
+## Models
+The models folder contains both the booleannet and graphml files for each of the models used.
+The booleannet format is a Boolean network format which formats the Boolean rules as:
+```
+Node1 *= Node2 and Node3
+Node2 *= Node1 or not Node3
+Node3 *= not (Node1 and Node3)
+```
+where the text before the `*=` is the node name and the text after is the node's Boolean update rule using Boolean logical operations.
