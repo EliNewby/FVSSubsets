@@ -6,11 +6,18 @@ This code functions best in an anaconda environment with these versions:
 
 and the FVS python code is available here: https://github.com/yanggangthu/FVS_python
 
-The FindBestSubsets file contains the code to find the topological metric values and intersection percentile cutoffs for a network. To run it, a network in graphml format is necessary.
+### FindBestSubsets
+The FindBestSubsets file contains the code to find the topological metric values and intersection percentile cutoffs for FVS subsets of a specific size on a network in graphml format. The function has an additional parameter of a list of intersections that are of interest, where each intersection is a list of metrics. The default parameters test the intersection of all seven metrics, the intersection of the propagation metrics, and the intersection of the Modified PRINCE and CheiRank metrics. To test other intersections, the metrics must be written as `OutDegree`, `Distance`, `PRINCE`, `ModPRINCE`, `CheiRank`, `Cycles`, and `SCC` to be recognized.
 
-The RunSimulations file contains the code to simulate the network and calculate the *To Control* and *Away Control* values for a list of subsets. Along with a list of subsets, this code requires a Boolean network in one of the file types bioLQM accepts as input (see here: http://www.colomoto.org/biolqm/doc/formats.html)
+The function returns a pandas DataFrame of each subset's topological values, a pandas DataFrame of each subset's intersection percetile cutoffs, and a list of every FVS subset.
 
-For more information and an example, see the jupyter notebook file.
+### RunSimulations
+The RunSimulations file contains the code to simulate the network and calculate the *To Control* and *Away Control* values for a list of subsets. Along with a list of subsets, this code requires a Boolean network in one of the file types bioLQM accepts as input (see here: http://www.colomoto.org/biolqm/doc/formats.html). There are two more parameters in the function, which determine the amout of simulations to be run. The first parameter `wtSims` indicates the number of simulations to run on the wild-type system to get the basins of attraction of the network's attractors (1000 in our paper). The second parameter `subsetSims` indicates the number of simulations to run on each intervention (100 in our paper).
+
+This function returns a pandas DataFrame of the *To Control* and *Away Control* values for each subset, and two dictionaries of Boolean values indicating if the subset doesn't drive to all of the attractors (goodAway) and if the subset drives to any (but not all) of the attractors (goodTo).
+
+### Example
+The T-LGL 2 node subsets are run in the `FVSSubsets.ipynb` jupyter notebook file. Along with running both of these functions, the notebook also recreates the figures from our paper.
 
 ## Models
 The models folder contains both the booleannet and graphml files for each of the models used.
