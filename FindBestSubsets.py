@@ -355,7 +355,7 @@ def findBestFVSSubsets(netName, numNodes, intersections = [['OutDegree','Distanc
                     goodPerts.append(k)
             for i in range(len(goodPerts)):
                 if(goodPerts[i] not in goodPertsOld):
-                    resultDict[goodPerts[i]].append(np.round(1-threshold, decimals = 2))
+                    resultDict[goodPerts[i]].append(np.round((1-threshold)*100))
         print('100%')
     resultDict = {k:v for k,v in sorted(resultDict.items(), key = lambda item:item[1])}
     FVSsubsets = list(resultDict.keys())
