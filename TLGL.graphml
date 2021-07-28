@@ -1,0 +1,668 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key attr.name="data" attr.type="long" for="edge" id="d2"/>
+<key attr.name="label" attr.type="string" for="node" id="d1"/>
+<key attr.name="source" attr.type="long" for="node" id="d0"/>
+<graph edgedefault="directed"><node id="A20">
+  <data key="d0">-1</data>
+  <data key="d1">A20</data>
+</node>
+<node id="NFKB">
+  <data key="d0">-1</data>
+  <data key="d1">NFKB</data>
+</node>
+<node id="Apoptosis">
+  <data key="d0">-1</data>
+  <data key="d1">Apoptosis</data>
+</node>
+<node id="Caspase">
+  <data key="d0">-1</data>
+  <data key="d1">Caspase</data>
+</node>
+<node id="BID">
+  <data key="d0">-1</data>
+  <data key="d1">BID</data>
+</node>
+<node id="GZMB">
+  <data key="d0">-1</data>
+  <data key="d1">GZMB</data>
+</node>
+<node id="BclxL">
+  <data key="d0">-1</data>
+  <data key="d1">BclxL</data>
+</node>
+<node id="MCL1">
+  <data key="d0">-1</data>
+  <data key="d1">MCL1</data>
+</node>
+<node id="STAT3">
+  <data key="d0">-1</data>
+  <data key="d1">STAT3</data>
+</node>
+<node id="DISC">
+  <data key="d0">-1</data>
+  <data key="d1">DISC</data>
+</node>
+<node id="CD45">
+  <data key="d0">0</data>
+  <data key="d1">CD45</data>
+</node>
+<node id="CREB">
+  <data key="d0">-1</data>
+  <data key="d1">CREB</data>
+</node>
+<node id="ERK">
+  <data key="d0">-1</data>
+  <data key="d1">ERK</data>
+</node>
+<node id="IFNG">
+  <data key="d0">-1</data>
+  <data key="d1">IFNG</data>
+</node>
+<node id="CTLA4">
+  <data key="d0">-1</data>
+  <data key="d1">CTLA4</data>
+</node>
+<node id="TCR">
+  <data key="d0">-1</data>
+  <data key="d1">TCR</data>
+</node>
+<node id="TRADD">
+  <data key="d0">-1</data>
+  <data key="d1">TRADD</data>
+</node>
+<node id="IAP">
+  <data key="d0">-1</data>
+  <data key="d1">IAP</data>
+</node>
+<node id="Ceramide">
+  <data key="d0">-1</data>
+  <data key="d1">Ceramide</data>
+</node>
+<node id="Fas">
+  <data key="d0">-1</data>
+  <data key="d1">Fas</data>
+</node>
+<node id="S1P">
+  <data key="d0">-1</data>
+  <data key="d1">S1P</data>
+</node>
+<node id="Cytoskeleton_signaling">
+  <data key="d0">-1</data>
+  <data key="d1">Cytoskeleton_signaling</data>
+</node>
+<node id="FYN">
+  <data key="d0">-1</data>
+  <data key="d1">FYN</data>
+</node>
+<node id="FasT">
+  <data key="d0">-1</data>
+  <data key="d1">FasT</data>
+</node>
+<node id="IL2">
+  <data key="d0">-1</data>
+  <data key="d1">IL2</data>
+</node>
+<node id="FLIP">
+  <data key="d0">-1</data>
+  <data key="d1">FLIP</data>
+</node>
+<node id="MEK">
+  <data key="d0">-1</data>
+  <data key="d1">MEK</data>
+</node>
+<node id="PI3K">
+  <data key="d0">-1</data>
+  <data key="d1">PI3K</data>
+</node>
+<node id="IL2RB">
+  <data key="d0">-1</data>
+  <data key="d1">IL2RB</data>
+</node>
+<node id="FasL">
+  <data key="d0">-1</data>
+  <data key="d1">FasL</data>
+</node>
+<node id="sFas">
+  <data key="d0">-1</data>
+  <data key="d1">sFas</data>
+</node>
+<node id="NFAT">
+  <data key="d0">-1</data>
+  <data key="d1">NFAT</data>
+</node>
+<node id="GAP">
+  <data key="d0">-1</data>
+  <data key="d1">GAP</data>
+</node>
+<node id="RAS">
+  <data key="d0">-1</data>
+  <data key="d1">RAS</data>
+</node>
+<node id="PDGFR">
+  <data key="d0">-1</data>
+  <data key="d1">PDGFR</data>
+</node>
+<node id="IL15">
+  <data key="d0">1</data>
+  <data key="d1">IL15</data>
+</node>
+<node id="GPCR">
+  <data key="d0">-1</data>
+  <data key="d1">GPCR</data>
+</node>
+<node id="GRB2">
+  <data key="d0">-1</data>
+  <data key="d1">GRB2</data>
+</node>
+<node id="ZAP70">
+  <data key="d0">-1</data>
+  <data key="d1">ZAP70</data>
+</node>
+<node id="TBET">
+  <data key="d0">-1</data>
+  <data key="d1">TBET</data>
+</node>
+<node id="Stimuli">
+  <data key="d0">1</data>
+  <data key="d1">Stimuli</data>
+</node>
+<node id="IFNGT">
+  <data key="d0">-1</data>
+  <data key="d1">IFNGT</data>
+</node>
+<node id="SMAD">
+  <data key="d0">-1</data>
+  <data key="d1">SMAD</data>
+</node>
+<node id="P2">
+  <data key="d0">-1</data>
+  <data key="d1">P2</data>
+</node>
+<node id="IL2RA">
+  <data key="d0">-1</data>
+  <data key="d1">IL2RA</data>
+</node>
+<node id="IL2RAT">
+  <data key="d0">-1</data>
+  <data key="d1">IL2RAT</data>
+</node>
+<node id="IL2RBT">
+  <data key="d0">-1</data>
+  <data key="d1">IL2RBT</data>
+</node>
+<node id="JAK">
+  <data key="d0">-1</data>
+  <data key="d1">JAK</data>
+</node>
+<node id="RANTES">
+  <data key="d0">-1</data>
+  <data key="d1">RANTES</data>
+</node>
+<node id="SOCS">
+  <data key="d0">-1</data>
+  <data key="d1">SOCS</data>
+</node>
+<node id="LCK">
+  <data key="d0">-1</data>
+  <data key="d1">LCK</data>
+</node>
+<node id="TPL2">
+  <data key="d0">-1</data>
+  <data key="d1">TPL2</data>
+</node>
+<node id="Stimuli2">
+  <data key="d0">0</data>
+  <data key="d1">Stimuli2</data>
+</node>
+<node id="P27">
+  <data key="d0">-1</data>
+  <data key="d1">P27</data>
+</node>
+<node id="PDGF">
+  <data key="d0">0</data>
+  <data key="d1">PDGF</data>
+</node>
+<node id="PLCG1">
+  <data key="d0">-1</data>
+  <data key="d1">PLCG1</data>
+</node>
+<node id="Proliferation">
+  <data key="d0">-1</data>
+  <data key="d1">Proliferation</data>
+</node>
+<node id="SPHK1">
+  <data key="d0">-1</data>
+  <data key="d1">SPHK1</data>
+</node>
+<node id="TAX">
+  <data key="d0">0</data>
+  <data key="d1">TAX</data>
+</node>
+<node id="TNF">
+  <data key="d0">-1</data>
+  <data key="d1">TNF</data>
+</node>
+<edge source="A20" target="TRADD">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFKB" target="A20">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="BclxL">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="FLIP">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="FasL">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="FasT">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="IAP">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="IL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="IL2RAT">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="MCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="RANTES">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFKB" target="TNF">
+  <data key="d2">1</data>
+</edge>
+<edge source="Caspase" target="Apoptosis">
+  <data key="d2">1</data>
+</edge>
+<edge source="Caspase" target="BID">
+  <data key="d2">1</data>
+</edge>
+<edge source="BID" target="BclxL">
+  <data key="d2">-1</data>
+</edge>
+<edge source="BID" target="Caspase">
+  <data key="d2">1</data>
+</edge>
+<edge source="BID" target="IAP">
+  <data key="d2">-1</data>
+</edge>
+<edge source="GZMB" target="BID">
+  <data key="d2">1</data>
+</edge>
+<edge source="GZMB" target="BclxL">
+  <data key="d2">-1</data>
+</edge>
+<edge source="GZMB" target="Caspase">
+  <data key="d2">1</data>
+</edge>
+<edge source="BclxL" target="BID">
+  <data key="d2">-1</data>
+</edge>
+<edge source="MCL1" target="BID">
+  <data key="d2">-1</data>
+</edge>
+<edge source="STAT3" target="BclxL">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="FasL">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="IFNGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="IL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="IL2RAT">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="MCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="P27">
+  <data key="d2">1</data>
+</edge>
+<edge source="STAT3" target="Proliferation">
+  <data key="d2">1</data>
+</edge>
+<edge source="DISC" target="BclxL">
+  <data key="d2">-1</data>
+</edge>
+<edge source="DISC" target="Caspase">
+  <data key="d2">1</data>
+</edge>
+<edge source="DISC" target="FLIP">
+  <data key="d2">-1</data>
+</edge>
+<edge source="DISC" target="MCL1">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CD45" target="JAK">
+  <data key="d2">-1</data>
+</edge>
+<edge source="CD45" target="LCK">
+  <data key="d2">1</data>
+</edge>
+<edge source="CREB" target="FLIP">
+  <data key="d2">1</data>
+</edge>
+<edge source="CREB" target="GZMB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="CREB">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="FasL">
+  <data key="d2">1</data>
+</edge>
+<edge source="ERK" target="IL2RBT">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNG" target="CREB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNG" target="FLIP">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNG" target="GZMB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNG" target="JAK">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNG" target="P2">
+  <data key="d2">1</data>
+</edge>
+<edge source="CTLA4" target="TCR">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TCR" target="CTLA4">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCR" target="FYN">
+  <data key="d2">1</data>
+</edge>
+<edge source="TCR" target="LCK">
+  <data key="d2">1</data>
+</edge>
+<edge source="TRADD" target="Caspase">
+  <data key="d2">1</data>
+</edge>
+<edge source="TRADD" target="NFKB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IAP" target="Caspase">
+  <data key="d2">-1</data>
+</edge>
+<edge source="IAP" target="NFKB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IAP" target="TRADD">
+  <data key="d2">-1</data>
+</edge>
+<edge source="Ceramide" target="DISC">
+  <data key="d2">1</data>
+</edge>
+<edge source="Ceramide" target="S1P">
+  <data key="d2">-1</data>
+</edge>
+<edge source="Fas" target="Ceramide">
+  <data key="d2">1</data>
+</edge>
+<edge source="Fas" target="DISC">
+  <data key="d2">1</data>
+</edge>
+<edge source="S1P" target="Ceramide">
+  <data key="d2">-1</data>
+</edge>
+<edge source="S1P" target="GPCR">
+  <data key="d2">1</data>
+</edge>
+<edge source="S1P" target="PDGFR">
+  <data key="d2">1</data>
+</edge>
+<edge source="S1P" target="sFas">
+  <data key="d2">1</data>
+</edge>
+<edge source="FYN" target="Cytoskeleton_signaling">
+  <data key="d2">1</data>
+</edge>
+<edge source="FYN" target="ZAP70">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FasT" target="DISC">
+  <data key="d2">1</data>
+</edge>
+<edge source="FasT" target="Fas">
+  <data key="d2">1</data>
+</edge>
+<edge source="FasT" target="sFas">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="DISC">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="GAP">
+  <data key="d2">-1</data>
+</edge>
+<edge source="IL2" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="IL2RAT">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="IL2RB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2" target="SOCS">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FLIP" target="DISC">
+  <data key="d2">-1</data>
+</edge>
+<edge source="FLIP" target="NFKB">
+  <data key="d2">1</data>
+</edge>
+<edge source="MEK" target="ERK">
+  <data key="d2">1</data>
+</edge>
+<edge source="PI3K" target="ERK">
+  <data key="d2">1</data>
+</edge>
+<edge source="PI3K" target="MCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PI3K" target="NFAT">
+  <data key="d2">1</data>
+</edge>
+<edge source="PI3K" target="NFKB">
+  <data key="d2">1</data>
+</edge>
+<edge source="PI3K" target="TPL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RB" target="FYN">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RB" target="GRB2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RB" target="JAK">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RB" target="LCK">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RB" target="MCL1">
+  <data key="d2">1</data>
+</edge>
+<edge source="FasL" target="Fas">
+  <data key="d2">1</data>
+</edge>
+<edge source="sFas" target="Fas">
+  <data key="d2">-1</data>
+</edge>
+<edge source="NFAT" target="FasL">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IFNGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="NFAT" target="IL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="GAP" target="GAP">
+  <data key="d2">1</data>
+</edge>
+<edge source="GAP" target="RAS">
+  <data key="d2">-1</data>
+</edge>
+<edge source="RAS" target="GAP">
+  <data key="d2">1</data>
+</edge>
+<edge source="RAS" target="MEK">
+  <data key="d2">1</data>
+</edge>
+<edge source="RAS" target="PI3K">
+  <data key="d2">1</data>
+</edge>
+<edge source="PDGFR" target="GAP">
+  <data key="d2">1</data>
+</edge>
+<edge source="PDGFR" target="PI3K">
+  <data key="d2">1</data>
+</edge>
+<edge source="PDGFR" target="PLCG1">
+  <data key="d2">1</data>
+</edge>
+<edge source="PDGFR" target="SPHK1">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL15" target="GAP">
+  <data key="d2">-1</data>
+</edge>
+<edge source="IL15" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL15" target="IL2RB">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL15" target="SOCS">
+  <data key="d2">-1</data>
+</edge>
+<edge source="GPCR" target="SMAD">
+  <data key="d2">1</data>
+</edge>
+<edge source="GRB2" target="PLCG1">
+  <data key="d2">1</data>
+</edge>
+<edge source="GRB2" target="RAS">
+  <data key="d2">1</data>
+</edge>
+<edge source="ZAP70" target="GRB2">
+  <data key="d2">1</data>
+</edge>
+<edge source="ZAP70" target="LCK">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TBET" target="GZMB">
+  <data key="d2">1</data>
+</edge>
+<edge source="TBET" target="IFNGT">
+  <data key="d2">1</data>
+</edge>
+<edge source="TBET" target="IL2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="TBET" target="IL2RBT">
+  <data key="d2">1</data>
+</edge>
+<edge source="TBET" target="TBET">
+  <data key="d2">1</data>
+</edge>
+<edge source="Stimuli" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="Stimuli" target="TCR">
+  <data key="d2">1</data>
+</edge>
+<edge source="IFNGT" target="IFNG">
+  <data key="d2">1</data>
+</edge>
+<edge source="SMAD" target="IFNG">
+  <data key="d2">-1</data>
+</edge>
+<edge source="P2" target="IFNG">
+  <data key="d2">-1</data>
+</edge>
+<edge source="P2" target="P2">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RA" target="IL2RA">
+  <data key="d2">-1</data>
+</edge>
+<edge source="IL2RA" target="JAK">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RAT" target="IL2RA">
+  <data key="d2">1</data>
+</edge>
+<edge source="IL2RBT" target="IL2RB">
+  <data key="d2">1</data>
+</edge>
+<edge source="JAK" target="SOCS">
+  <data key="d2">1</data>
+</edge>
+<edge source="JAK" target="STAT3">
+  <data key="d2">1</data>
+</edge>
+<edge source="JAK" target="TBET">
+  <data key="d2">1</data>
+</edge>
+<edge source="RANTES" target="JAK">
+  <data key="d2">1</data>
+</edge>
+<edge source="SOCS" target="JAK">
+  <data key="d2">-1</data>
+</edge>
+<edge source="LCK" target="ZAP70">
+  <data key="d2">1</data>
+</edge>
+<edge source="TPL2" target="NFKB">
+  <data key="d2">1</data>
+</edge>
+<edge source="Stimuli2" target="P2">
+  <data key="d2">-1</data>
+</edge>
+<edge source="P27" target="Proliferation">
+  <data key="d2">-1</data>
+</edge>
+<edge source="PDGF" target="PDGFR">
+  <data key="d2">1</data>
+</edge>
+<edge source="PLCG1" target="RAS">
+  <data key="d2">1</data>
+</edge>
+<edge source="SPHK1" target="S1P">
+  <data key="d2">1</data>
+</edge>
+<edge source="TAX" target="TPL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TNF" target="TPL2">
+  <data key="d2">1</data>
+</edge>
+<edge source="TNF" target="TRADD">
+  <data key="d2">1</data>
+</edge>
+</graph></graphml>
