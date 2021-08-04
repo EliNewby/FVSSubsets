@@ -4,20 +4,19 @@ This code functions best in an anaconda environment with these versions:
 - Python 3.8.10
 - Ginsim 3.0.0b (https://github.com/GINsim/GINsim-python)
 
-and the FVS python code is available here: https://github.com/yanggangthu/FVS_python
+and the FVS python code was developed by Gang Yang and is also available here: https://github.com/yanggangthu/FVS_python
 
+## Functions
 ### FindBestSubsets
-The FindBestSubsets file contains the code to find the topological metric values and intersection percentile cutoffs for FVS subsets of a specific size on a network in graphml format. The function has an additional parameter of a list of intersections that are of interest, where each intersection is a list of metrics. The default parameters test the intersection of all seven metrics, the intersection of the propagation metrics, and the intersection of the Modified PRINCE and CheiRank metrics. To test other intersections, the metrics must be written as `OutDegree`, `Distance`, `PRINCE`, `ModPRINCE`, `CheiRank`, `Cycles`, and `SCC` to be recognized.
-
-The function returns a pandas DataFrame of each subset's topological values, a pandas DataFrame of each subset's intersection percetile cutoffs, and a list of every FVS subset.
+The FindBestSubsets file contains the function `findBestFVSSubsets` to find the topological metric values and intersection percentile cutoffs for FVS subsets of a specific size on a network in graphml format. The function returns a pandas DataFrame of each subset's topological values, a pandas DataFrame of each FVS subset's intersection percetile cutoffs, and a list of every FVS subset.
 
 ### RunSimulations
-The RunSimulations file contains the code to simulate the network and calculate the *To Control* and *Away Control* values for a list of subsets. Along with a list of subsets, this code requires a Boolean network in one of the file types bioLQM accepts as input (see here: http://www.colomoto.org/biolqm/doc/formats.html). There are two more parameters in the function, which determine the amout of simulations to be run. The first parameter `wtSims` indicates the number of simulations to run on the wild-type system to get the basins of attraction of the network's attractors (1000 in our paper). The second parameter `subsetSims` indicates the number of simulations to run on each intervention (100 in our paper).
-
-This function returns a pandas DataFrame of the *To Control* and *Away Control* values for each subset, and two dictionaries of Boolean values indicating if the subset doesn't drive to all of the attractors (goodAway) and if the subset drives to any (but not all) of the attractors (goodTo).
+The RunSimulations file contains the function `calculateToandAwayControl` to simulate the network and calculate the *To Control* and *Away Control* values for a list of subsets. Along with a list of subsets, this code requires a Boolean network in one of the file types bioLQM accepts as input (see here: http://www.colomoto.org/biolqm/doc/formats.html). This function returns a pandas DataFrame of the *To Control* and *Away Control* values for each subset, and two dictionaries of Boolean values indicating if the subset is partially informative (goodAway) and if the subset is fully informative (goodTo).
 
 ### Example
-The T-LGL 2 node subsets are run in the `FVSSubsets.ipynb` jupyter notebook file. Along with running both of these functions, the notebook also recreates the figures from our paper.
+The T-LGL 2 node subsets are run in the `FVSSubsets.ipynb` jupyter notebook file.
+Along with running both of these functions, the notebook also recreates the figures from our paper.
+The TLGLRandom folder contains two excel files of the *To Control* and *Away Control* values for the random samples of all subsets (`TLGLRandomResults.xlsx`) and FVS subsets (`TLGLRandomFVSResults.xlsx`) that are used to generate the box-and-whisker plots.
 
 ## Models
 The models folder contains both the booleannet and graphml files for each of the models used.
