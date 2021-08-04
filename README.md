@@ -1,8 +1,8 @@
 # FVSSubsets
 ## Installation
 This code functions best in an anaconda environment with these versions:
-- Python 3.9.6
-- Ginsim 3.0.0b (https://anaconda.org/colomoto/ginsim)
+- Python 3.8.10
+- Ginsim 3.0.0b (https://github.com/GINsim/GINsim-python)
 
 and the FVS python code is available here: https://github.com/yanggangthu/FVS_python
 
