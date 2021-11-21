@@ -8,7 +8,7 @@ and the FVS python code was developed by Gang Yang and is also available here: h
 
 ## Functions
 ### FindBestSubsets
-The FindBestSubsets file contains the function `findBestFVSSubsets` to find the topological metric values and intersection percentile cutoffs for FVS subsets of a specific size on a network in graphml format. The function returns a pandas DataFrame of each subset's topological values, a pandas DataFrame of each FVS subset's intersection percetile cutoffs, and a list of every FVS subset.
+The FindBestSubsets file contains the function `findBestFVSSubsets` to find the topological metric values and intersection metric percentile cutoffs for FVS subsets of a specific size on a network in graphml format. The function returns a pandas DataFrame of each subset's topological values, a pandas DataFrame of each FVS subset's intersection metric percetile cutoffs, and a list of every FVS subset.
 
 ### RunSimulations
 The RunSimulations file contains the function `calculateToandAwayControl` to simulate the network and calculate the *To Control* and *Away Control* values for a list of subsets. Along with a list of subsets, this code requires a Boolean network in one of the file types bioLQM accepts as input (see here: http://www.colomoto.org/biolqm/doc/formats.html). This function returns a pandas DataFrame of the *To Control* and *Away Control* values for each subset, and two dictionaries of Boolean values indicating if the subset is partially informative (goodAway) and if the subset is fully informative (goodTo).
