@@ -24,7 +24,7 @@ import numpy.linalg as la
 import math
 import scipy.stats as sp
 
-def findBestFVSSubsets(netName, numNodes, intersections = [['OutDegree','Distance','PRINCE','ModPRINCE','CheiRank','Cycles','SCC'],['PRINCE', 'ModPRINCE','CheiRank'],['ModPRINCE','CheiRank']], verbose = False, write = False, writePath = 'TopologicalValues.xlsx'):
+def findBestFVSSubsets(netName, numNodes, intersections = [['OutDegree','Distance','PRINCE','ModPRINCE','CheiRank','Cycles','SCC'],['PRINCE', 'ModPRINCE','CheiRank'],['ModPRINCE','CheiRank'],['CheiRank']], verbose = False, write = False, writePath = 'TopologicalValues.xlsx'):
     net = nx.read_graphml(netName)
     revNet = nx.reverse(net)    
     metricDict = {0:'OutDegree', 1:'Distance', 2:'PRINCE', 3:'ModPRINCE', 4:'CheiRank', 5:'Cycles', 6:'SCC'}
