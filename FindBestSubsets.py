@@ -24,7 +24,7 @@ import numpy.linalg as la
 import math
 import scipy.stats as sp
 
-def findBestFVSSubsets(netName, numNodes, intersections = [['OutDegree','Distance','PRINCE','ModPRINCE','CheiRank','Cycles','SCC'],['PRINCE', 'ModPRINCE','CheiRank'],['ModPRINCE','CheiRank'],['CheiRank']], verbose = False, write = False, writePath = 'TopologicalValues.xlsx'):
+def findBestFVSSubsets(netName, numNodes, intersections = [['OutDegree','Distance','PRINCE','ModPRINCE','CheiRank','Cycles','SCC'],['PRINCE', 'ModPRINCE','CheiRank'],['ModPRINCE','CheiRank'],['CheiRank']], sort_value = None, verbose = False, write = False, writePath = 'TopologicalValues.xlsx'):
     net = nx.read_graphml(netName)
     revNet = nx.reverse(net)    
     metricDict = {0:'OutDegree', 1:'Distance', 2:'PRINCE', 3:'ModPRINCE', 4:'CheiRank', 5:'Cycles', 6:'SCC'}
@@ -379,7 +379,11 @@ def findBestFVSSubsets(netName, numNodes, intersections = [['OutDegree','Distanc
                     resultDict[goodPerts[i]].append(np.round(100*(1-threshold)))
         if(verbose):
             print('100%')
-    resultDict = {k:v for k,v in sorted(resultDict.items(), key = lambda item:item[1])}
+    if(sort_value != None):
+        if(sort_value not in intersections):
+            print('sort_value is not in intersections.')
+        else:
+            resultDict = {k:v for k,v in sorted(resultDict.items(), key = lambda item:item[1][intersections.index(sort_value)])}        
     FVSsubsets = list(resultDict.keys())
     topologyDF = pd.DataFrame(topologyDict, index = metricDict.values()).transpose()
     intersectionDF = pd.DataFrame(resultDict, index = [', '.join(intersection) for intersection in intersections]).transpose()
