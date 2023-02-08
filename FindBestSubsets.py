@@ -161,7 +161,7 @@ def findBestFVSSubsets(netName, numNodes, intersections = [['OutDegree','Distanc
                 combName += c + ', '
                 notP*=(1-pR[c])
             P = 1-notP
-            result[i] = np.round(P, decimals = 3)
+            result[i] = P
             combNames.append(combName[:-2])
         return pd.DataFrame({'Intervention':combNames,'Value':result})
     
