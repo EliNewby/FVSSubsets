@@ -32,4 +32,5 @@ where the text before the `*=` is the node name and the text after is the node's
 
 ## References
 [1] Eli Newby, Jorge Gómez Tejeda Zañudo, Réka Albert; Structure-based approach to identifying small sets of driver nodes in biological networks. *Chaos* 1 June 2022; 32 (6): 063102.
+
 [2] Eli Newby, Jorge Gómez Tejeda Zañudo, Réka Albert; Structure-based approach to identify driver nodes in ensembles of biologically inspired Boolean networks. *Phys. Rev. Res.* Jul 2023; 5 (3):033009
