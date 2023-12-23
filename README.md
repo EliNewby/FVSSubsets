@@ -1,4 +1,6 @@
 # FVSSubsets
+This code was developed to identify subsets of the feedback vertex set (FVS) of a Boolean network and simulate how driving these subsets affects the dynamics of the network [1]
+
 ## Installation
 This code functions best in an anaconda environment with these versions:
 - Python 3.8.10
@@ -27,3 +29,6 @@ Node2 *= Node1 or not Node3
 Node3 *= not (Node1 and Node3)
 ```
 where the text before the `*=` is the node name and the text after is the node's Boolean update rule using Boolean logical operations.
+
+### References
+[1] Eli Newby, Jorge Gómez Tejeda Zañudo, Réka Albert; Structure-based approach to identifying small sets of driver nodes in biological networks. Chaos 1 June 2022; 32 (6): 063102.
